@@ -7,3 +7,5 @@ All animations and icons are made by me, except the background images and map ti
 
 
 Video overview of project
+
+[Direct Link] https://www.youtube.com/watch?v=3zlNUK9Yx1c
