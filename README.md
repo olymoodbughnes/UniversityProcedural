@@ -6,6 +6,14 @@ All animations and icons are made by me, except the background images and map ti
 [![Video thumbnail](https://img.youtube.com/vi/3zlNUK9Yx1c/0.jpg)](https://www.youtube.com/watch?v=3zlNUK9Yx1c) 
 
 
-Video overview of project
+# Video overview of project
 
 [Direct Link] https://www.youtube.com/watch?v=3zlNUK9Yx1c
+
+
+# Video showcasing animations
+
+[![Video thumbnail](https://img.youtube.com/vi/mN_qtu2QtDw/0.jpg)](https://www.youtube.com/watch?v=mN_qtu2QtDw ) 
+
+
+[Direct Link]https://youtu.be/mN_qtu2QtDw 
