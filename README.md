@@ -1,5 +1,5 @@
 #  Univeristy dissertation project, using procedural generation to create a map. 
-## All the important code can be found in the /assets/scripts folder.
+### All the important code can be found in the /assets/scripts folder.
 Below is a quick explanation of some of the features in the game as well as a showcase of all the anmimations I made for the game by hand. 
 All animations and icons are made by me, except the background images and map tiles which have been taken from online sources.
 
