@@ -1,4 +1,4 @@
-# UnityProcedural Univeristy dissertation project, using procedural generation to create a map. 
+#  Univeristy dissertation project, using procedural generation to create a map. 
 
 Below is a quick explanation of some of the features in the game, all the important code can be found in the /assets/scripts folder.
 All animations and icons are made by me, except the background images and map tiles which have been taken from online sources.
